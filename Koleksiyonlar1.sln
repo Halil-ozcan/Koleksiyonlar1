@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Koleksiyonlar1", "Koleksiyo
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArrayListProje", "ArrayListProje\ArrayListProje.csproj", "{61FDEEFF-14F8-4EAF-A3B4-C2B06D28BDC1}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HashTable", "HashTable\HashTable.csproj", "{8344E0ED-5EB6-45D4-ABA5-BC7CDF1513A3}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{61FDEEFF-14F8-4EAF-A3B4-C2B06D28BDC1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{61FDEEFF-14F8-4EAF-A3B4-C2B06D28BDC1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{61FDEEFF-14F8-4EAF-A3B4-C2B06D28BDC1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8344E0ED-5EB6-45D4-ABA5-BC7CDF1513A3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8344E0ED-5EB6-45D4-ABA5-BC7CDF1513A3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8344E0ED-5EB6-45D4-ABA5-BC7CDF1513A3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8344E0ED-5EB6-45D4-ABA5-BC7CDF1513A3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
